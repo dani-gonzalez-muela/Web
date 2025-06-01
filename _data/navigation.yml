@@ -8,16 +8,16 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "PepeP"
+  - title: "Quant Fianance"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Algorithmic Trading"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Running"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "About Me"
     url: /portfolio/
         
   - title: "Blog Posts"
